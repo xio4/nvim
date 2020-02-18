@@ -1,0 +1,12 @@
+{
+  "suggest.echodocSupport": true,
+  "suggest.maxCompleteItemCount": 20,
+  "coc.preferences.formatOnSaveFiletypes": ["Markdown", "scss", "javascript", "typescript", "typescriptreact", "javascriptreact", "typescript.tsx"],
+  "eslint.filetypes": ["css", "Markdown", "scss", "javascript", "typescript", "typescriptreact", "javascriptreact", "typescript.tsx"],
+  "diagnostic.errorSign": "X",
+  "diagnostic.warningSign": "⚠️",
+  "diagnostic.hintSign": "⚠️",
+  "diagnostic.infoSign": "⚠️",
+  "typescript.suggest.autoImports": true
+}
+
